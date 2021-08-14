@@ -1,0 +1,1 @@
+Animação em texto utilizando HTML e CSS / Sass. Aula criada por Amit Sheen
